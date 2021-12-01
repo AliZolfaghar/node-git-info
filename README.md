@@ -9,3 +9,6 @@ run git show-ref to show if all sha-keies are identical ?
 check to see if repo needs to pull change
 
 add update 
+
+
+add some bash/batch script to simplyfy the git add , git commit , git push , git fetch and update the node app on production server 
